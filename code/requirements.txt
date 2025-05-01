@@ -1,0 +1,12 @@
+numpy
+torch
+torchaudio
+torchvision
+pytorch-lightning
+transformers
+scikit-learn
+jiwer
+pandas
+matplotlib
+soundfile
+ffmpeg-python
